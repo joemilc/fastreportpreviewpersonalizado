@@ -1,3 +1,9 @@
+{
+  Autor: Joemil
+  Email: joemilc@gmail.com
+  atualizado em: 04/10/2022
+}
+
 unit uRel_Preview;
 
 interface
