@@ -1,8 +1,8 @@
-Preview Personalizado para FastReport
+Exemplo de Preview Personalizado para FastReport
 -
 
-Criei este preview personalizado para Fast Report, ha alguns anos.  
-So adicionar ao seu projeto e ajustar o layout  
+Criei este exemplo de preview personalizado para Fast Report, há alguns anos.  
+Só adicionar ao seu projeto e ajustar o layout  
 
 como usar  
 
