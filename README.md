@@ -1,0 +1,2 @@
+# fastreportpreviewpersonalizado
+Preview Personalizado para FastReport
